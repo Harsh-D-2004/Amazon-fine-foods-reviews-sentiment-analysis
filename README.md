@@ -64,4 +64,9 @@ streamlit run app.py
 
 Streamlit runs on http://localhost:8501 by default. Ensure this port is available.
 
+---
+
 ## Screenshots
+![Screenshot](ss/Screenshot%202025-05-24%20100928.png)
+
+![Screenshot](ss/Screenshot%202025-05-24%20100946.png)
